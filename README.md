@@ -28,4 +28,8 @@ player has to kill before it’s too late. I could also make some sort of puzzle
 the water bucket filling element. Maybe if you fill the buckets in a certain order,
 than it triggers a waterfall or a big splash.
 The basic rules of my game are to stop the fire from spreading and not to get hit
-by its burning embers.
+by its burning embers. 
+
+Second Iteration - The Floor Is Lava: 
+
+After trying to make my wildfire galaga dreams come true, I ran into a lot of issues with spawning that became hard for be to go back on in my project so I strated from scratch.  I kept the fire and lava theme but I changed the storyline behind the game whish ultimately ended up changing all the mechanics too. This version is all about a little water warrior that is trapped on the last bit of land being swallowed by the lava rushing through the forest. He has to protect himself with his littel squirt gun while also dodging the lava pools that come up from the ground! There are a series of waves that the player goes through, that ultimately will begin to loop.  Each wave the enemies go up in health and increase in spawning and speed, as well as having more lava pools to dodge. 
